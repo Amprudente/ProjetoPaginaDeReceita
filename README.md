@@ -17,6 +17,8 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 
 [def]: Untitled-1html
 
+![Screenshot of ProjetoPaginaDeReceita web page showing a recipe layout with sections for ingredients and preparation steps, styled with a clean and modern design. The page uses soft colors and rounded elements, creating a welcoming and friendly atmosphere. Visible text includes ProjetoPaginaDeReceita as the header and labels for ingredients and preparation. The overall tone is inviting and cheerful.](.GitHub/preview.png)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/sM0SbcotG87kDnkzrJPfJk/P%C3%A1gina-de-receita--Community-?node-id=915-685&t=URX6FFUIOqa3MElc-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
