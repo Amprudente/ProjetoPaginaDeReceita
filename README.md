@@ -6,7 +6,23 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 
 <div align="center">
 
-#Tecnologias
+[**Tecnologias**] | [**Projeto**](.vscode/GitHub/preview.png) | [**Layout**](#-layout) [**Licença**](#memo-licença)
+
+</div>
+
+[Licença](#memo-licença)
+
+</p>
+
+![Licença][Linceça]
+
+![ProjetoPaginaDeReceita][def2]
+
+[def2]: .vscode/GitHub/preview.png
+
+## Tecnologias
+
+Esse Projeto Foi Desenvolvido Com As Seguintes Tecnologias:
 
 - HTML
 - CSS
@@ -16,8 +32,6 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 [**Projeto**][def]
 
 [def]: Untitled-1html
-
-![Screenshot of ProjetoPaginaDeReceita web page showing a recipe layout with sections for ingredients and preparation steps, styled with a clean and modern design. The page uses soft colors and rounded elements, creating a welcoming and friendly atmosphere. Visible text includes ProjetoPaginaDeReceita as the header and labels for ingredients and preparation. The overall tone is inviting and cheerful.](.GitHub/preview.png)
 
 ## 🔖 Layout
 
@@ -31,6 +45,4 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!] :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
-
-[license]: https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000
 0 comentários de confirmaçãoComentários0 ( 0 )Bloquear conversa
