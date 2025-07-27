@@ -10,7 +10,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 
 </div>
 
-[Licença](#memo-licença)
+[Licença](https://github.com/Amprudente/MeuPrimeiroProjeto/blob/main/README.md?plain=1#L48)
 
 </p>
 
@@ -42,6 +42,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
+
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!] :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
