@@ -10,7 +10,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 
 </div>
 
-[Licença](https://github.com/Amprudente/MeuPrimeiroProjeto/blob/main/README.md?plain=1#L48)
+[Licença][Licença]
 
 </p>
 
@@ -43,7 +43,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!] :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
 0 comentários de confirmaçãoComentários0 ( 0 )Bloquear conversa
+
+[Linceça]:https://github.com/Amprudente/MeuPrimeiroProjeto/blob/main/README.md?plain=1#L48
